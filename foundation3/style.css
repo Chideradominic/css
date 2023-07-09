@@ -1,0 +1,14 @@
+button {
+    padding: 0;
+    border-radius: 0;
+    margin: 0;
+        }
+.button1 {
+    background-color: black;
+    color: white;
+    font-size: bold;
+}
+.button2 {
+    background-color: yellow;
+    border-width: 1px;
+}
